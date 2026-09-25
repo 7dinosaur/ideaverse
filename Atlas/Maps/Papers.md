@@ -4,6 +4,5 @@ up:
 related: []
 created: 2022-01-01
 ---
-This note passively looks at the properties of all notes.
-
-If a note has an `in` property that includes a link to `Papers`, it will show up below.
+文献阅读目录：
+[[Li Wu——考虑任务约束的低声爆超声速飞行器多学科设计优化(BCO方法文献)]]
